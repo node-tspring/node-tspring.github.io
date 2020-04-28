@@ -2,7 +2,7 @@
     "theme": "default",
     "useSideMenu": true,
     "lineBreaks": "gfm",
-    "additionalFooterText": "You MD-Blog",
+    "additionalFooterText": "TypeScript 版 Spring Boot",
     "anchorCharacter": "&#x2693;",
-    "title": "MD-Blog"
+    "title": "TSpring"
 }
